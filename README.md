@@ -33,4 +33,4 @@ In this case, AdaBoost shows a clear improvement with a Balanced Accuracy Score 
 
 
 ## Summary
-
+The first four models implemented were modest in their prediction capibilities towards this application.  Having BAS scores around 60% is not an overly strong achievement but an excellent first step towards understanding.  The ensemble classifiers on the other hand are quite strong for modelling credit risk are quite effective.  The strongest of all the models generated was with the AdaBoost algorithm showing a BAS of 0.93, a Prec of 0.99, and Rec of 0.94.  This method shows a much better balance between precision and recall, resulting in an effective outcome.  It is notable that the original dataset only presented 1% high-risk loans as opposed to the 99% low risk loans.  The process of enlarging/enhancing the dataset may result in the neccessity to further investigate information sources to gain a full understanding of the situation.

@@ -1,7 +1,7 @@
 # Credit_Risk_Analysis
 
 ## Overview
-Several machine learning models are generated and analyzed to better understand the potential and the risks on loan status.  This includes analysis of low_risk and high_risk
+Several machine learning models are generated and analyzed to better understand the potential and the risks on loan status.  This includes analysis of low_risk and high_risk scenarios.  Credit risk is a large field in the banking industry and critical for organizations aiming to maintain or augment their financial status.  Several models from the Imbalanced-Learn & Scikit-Learn libraries will be implimented to gain perspectives on loan statuses.
 
 ## Results
 Evaluated largely by Balanced Accuracy Score (0 - 1), Precision (Prec), and Recall (Rec).
